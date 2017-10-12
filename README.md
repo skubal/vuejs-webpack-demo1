@@ -1,6 +1,6 @@
 # vuejs-webpack-demo1
 
-> vuejs webpack demo1
+> vuejs webpack sample created using Vue CLI
 
 ## Build Setup
 
